@@ -41,3 +41,4 @@ I would like to use Keto-Council to supplement my professional growth as a devel
 - [ ] API
 - [ ] Auth
 - [ ] Content creation
+- [ ] Build in Public
